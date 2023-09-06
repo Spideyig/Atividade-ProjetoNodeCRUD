@@ -71,3 +71,6 @@ app.post("/atualizar", function(req, res){
 app.listen(8081, function(){
     console.log("Servidor ativo!")
 })
+
+/*Professor, não estou conseguindo cadastrar os dados. 
+Aparece um erro falando de uma coluna diferente do esperado,mas estão todas iguais ao código*/
